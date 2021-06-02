@@ -1,2 +1,2 @@
-#Wecome Earthling
-*This is ALX*
+#Welcome earthling
+*Great to have you here*
